@@ -1,0 +1,6 @@
+{
+  "name": "Hermes Dev",
+  "description": "All-in-one autonomous AI software development agent inspired by Hermes Agent and Rea, featuring workspace tools, multi-provider LLMs, GitHub skills, and execution pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

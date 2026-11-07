@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hermes Dev</string>
+    <string name="tagline">Autonomous AI Software Engineer</string>
+    <string name="tab_chat">Agent Chat</string>
+    <string name="tab_workspace">Workspace</string>
+    <string name="tab_skills">Skill Store</string>
+    <string name="tab_tools">Environment</string>
+    <string name="tab_settings">API Providers</string>
+</resources>
